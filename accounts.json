@@ -1,9 +1,6 @@
-{
-    "members":
-    [
-        {
-            "username": "lawyn",
-            "hwid": ""
-        }
-    ]
-}
+[
+    {
+        "username": "lawyn",
+        "hwid": ""
+    }
+]
